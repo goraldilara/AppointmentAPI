@@ -1,15 +1,15 @@
 # AppointmentAPI
 An ASP.NET Core Web API based booking API that allows users to monitor available doctors, set and delete appointments
 
-General info
+# General info
 This project is a backend project that has these 2 main operations: Booking/Canceling Appointments, Reaching available doctors' list
 
-Technologies
+# Technologies
 The project is created with:
 
 ASP.NET Core Web API (6.0)
 
-Usage
+# Usage
 The response of the backend can be obtained by:
 
 POSTMAN/Swagger - 
